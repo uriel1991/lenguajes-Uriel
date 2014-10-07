@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lenguajes de Programacion Orientados a Objetos (JAVA)
 
 
@@ -136,3 +137,12 @@ examen
     9.10 Usando la herramienta javadoc 
     9.11 La herramienta deprecation 
     9.12 Usando la herramienta jar 
+=======
+lenguajes-Uriel
+===============
+
+Tareas y Proyectos lenguajes
+sdaf
+hjkhj
+ghj
+>>>>>>> origin/master
