@@ -1,0 +1,19 @@
+public class MiThread extends Thread {
+    public void run(){
+    System.out.println("hola soy un thread");
+
+    }
+}
+
+
+public class Prueba {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        MiThread t1=new MiThread();
+        t1.start();
+    }
+    
+}
