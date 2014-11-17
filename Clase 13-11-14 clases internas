@@ -1,0 +1,15 @@
+public class MiThread2 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        Thread t1=new Thread(new Runnable(){
+            public void run(){
+                System.out.println("Soy un Thread bueno");
+            }
+        });
+        t1.start();
+    }
+    
+}
